@@ -48,4 +48,6 @@ Port: 443
 
 <TODO: Add link Screencast on YouTube>
 
+## All commits should pass workflow actions
+![Github Workflow](https://user-images.githubusercontent.com/974295/99817608-c5086700-2b12-11eb-9b35-0c674dea2b56.png)
 
